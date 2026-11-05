@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-evidence-nextjs",
+  "capabilityKey": "liberusoftware/module-genealogy-evidence",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-genealogy-evidence-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/genealogy/nextjs/evidence.md",
+  "presentationPlan": "projects/genealogy/nextjs/evidence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
